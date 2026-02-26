@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
+
+Full Stack MERN Developer  
+Building scalable web applications with secure authentication and optimized architecture.
 
 <!--
 **vaishnav1412/vaishnav1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
