@@ -94,31 +94,6 @@ I focus on **clean code**, **smooth UX**, and **end-to-end solutions** that actu
 
 ---
 
-## 💼 Experience
-
-**Full Stack Developer** @ [Company Name]  
-*2023 – Present*  
-- Built and scaled MERN apps handling 10k+ users  
-- Optimized queries → 40% faster responses  
-- Integrated real-time features with Socket.io  
-
-**Web Developer** @ [Previous Company]  
-*2021 – 2023*  
-- RESTful APIs with Node.js & Express  
-- AWS deployment & third-party integrations  
-- Mentored junior devs & led code reviews  
-
----
-
-## 🎓 Education & Certifications
-
-- **B.E. Computer Science** – [University Name]  
-- **Full Stack Web Development** – [Platform]  
-- **AWS Certified Developer** – Associate  
-- **MongoDB Certified Developer**  
-
----
-
 ## 📫 Let’s Connect
 
 I'm always open to cool collaborations or tech chats!
